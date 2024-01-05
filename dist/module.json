@@ -1,0 +1,17 @@
+{
+  "id": "akm-scene-enhancement",
+  "title": "AKM Scene Enhancement",
+  "description": "A simple module to enhance scene functionality in Foundry VTT.",
+  "authors": [
+    {
+      "name": "Alan K. Miles",
+      "email": "alankmiles@gmail.com",
+    },
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11",
+  },
+  "esmodules": ["scripts/module.js"],
+}

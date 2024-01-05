@@ -1,0 +1,16 @@
+{
+ "name": "akm-scene-enhancement",
+  "version": "1.0.0",
+  "description": "A simple module to enhance scene functionality in Foundry VTT.",
+  "license": "GPLv3",
+  "private": true,
+  "scripts": {
+    "build": "tsc && vite build"
+  },
+  "devDependencies": {
+    "@league-of-foundry-developers/foundry-vtt-types": "^9.280.0",
+    "rollup-plugin-copy": "^3.5.0",
+    "typescript": "^5.3.3",
+    "vite": "^5.0.10"
+  }
+}
