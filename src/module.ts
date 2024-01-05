@@ -1,3 +1,5 @@
+import AKMSceneNav from './akm-scene-nav';
+
 Hooks.once("init", () => {
-  console.log("Hello world!");
+  AKMSceneNav.init();
 });

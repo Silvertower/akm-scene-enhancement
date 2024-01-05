@@ -9,14 +9,14 @@ export default defineConfig({
       output: {
         dir: "dist",
         entryFileNames: "scripts/module.js",
-        format: "es",
+        format: "es"
       },
     },
   },
   plugins: [
     copy({
       targets: [{ src: "static/module.json", dest: "dist" }],
-      hook: "writeBundle",
+      hook: "writeBundle"
     }),
   ],
 });

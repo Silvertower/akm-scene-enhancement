@@ -1,2 +1,2 @@
-Hooks.once("init",()=>{console.log("Hello world!")});
+class o{static init(){console.log("Hello World!")}}Hooks.once("init",()=>{o.init()});
 //# sourceMappingURL=module.js.map
