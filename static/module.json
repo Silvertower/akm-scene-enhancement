@@ -5,13 +5,13 @@
   "authors": [
     {
       "name": "Alan K. Miles",
-      "email": "alankmiles@gmail.com",
+      "email": "alankmiles@gmail.com"
     }
   ],
   "version": "1.0.0",
   "compatibility": {
     "minimum": "11",
-    "verified": "11",
+    "verified": "11"
   },
   "esmodules": ["scripts/module.js"]
 }
